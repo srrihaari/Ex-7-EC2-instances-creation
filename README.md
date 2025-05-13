@@ -52,4 +52,3 @@ To set up and launch an Amazon EC2 instance, providing on-demand computing servi
 ## **Results**
 
 Successfully created the Elastic Compute Cloud (EC2) instances in this lab.
-# Ex-7-EC2-instances-creation
